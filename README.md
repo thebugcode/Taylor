@@ -5,7 +5,8 @@
 A tool aimed to increase Swift code quality, by checking for conformance to code metrics.
 
 [![Build Status](https://travis-ci.org/thebugcode/Taylor.svg)](https://travis-ci.org/thebugcode/Taylor)
-[![Coverage Status](https://coveralls.io/repos/thebugcode/Taylor/badge.svg?branch=master&service=github)](https://coveralls.io/github/thebugcode/Taylor?branch=master)
+[![codecov.io](https://codecov.io/github/thebugcode/Taylor/coverage.svg?branch=master)](https://codecov.io/github/thebugcode/Taylor?branch=master)
+
 
 Taylor uses [SourceKitten](https://github.com/S2dentik/SourceKitten) to a more
 accurate [AST](http://clang.llvm.org/docs/IntroductionToTheClangAST.html)
