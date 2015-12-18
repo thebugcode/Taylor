@@ -1,6 +1,6 @@
 #! /bin/bash
 
-TEST_CMD="xcodebuild -scheme TaylorFramework -sdk macosx10.11 build test"
+TEST_CMD="xcodebuild -scheme Taylor -sdk macosx10.11 build test"
 
 which -s xcpretty
 XCPRETTY_INSTALLED=$?
